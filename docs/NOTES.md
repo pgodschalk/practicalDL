@@ -26,3 +26,11 @@
 ## Deep Learning & AI
 
 - Recreation is the inverse operation of Deep Learning
+
+## Learning Rate & Gradients
+
+- Learning rate is a hyperparameter
+- Hyperparameters control how training is happening
+- Loss function is the measurement of the error
+  - In a neural network, it's the measurement of if you did a correct
+    prediction
