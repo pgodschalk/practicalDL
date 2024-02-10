@@ -51,3 +51,13 @@
 ## Understanding the Model
 
 - Dense layer: each neuron connected to every other neuron in the next layer
+
+## Defining the Solver & Loss Function
+
+- Earlier linear regression similar to stochatic gradient descent: started with
+  a random point and gradually descended through gradient space to get to the
+  extrema of the function
+
+## Training a Model
+
+- Epochs: number of times the model will see the entire dataset
