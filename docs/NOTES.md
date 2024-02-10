@@ -34,3 +34,9 @@
 - Loss function is the measurement of the error
   - In a neural network, it's the measurement of if you did a correct
     prediction
+
+## Sigmoid vs ReLU
+
+- ReLU will set to 0 when signals are negative, returns value when positive
+- $\mathrm{ReLU} = \max(x,0)$
+- Regularization to not output too large values
