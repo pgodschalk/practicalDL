@@ -40,3 +40,10 @@
 - ReLU will set to 0 when signals are negative, returns value when positive
 - $\mathrm{ReLU} = \max(x,0)$
 - Regularization to not output too large values
+
+## Softmax
+
+- Softmax also outputs between 0 and 1, but guarantees that, with several
+  units, the sum of all outputs is equal to 1
+- This allows outputs from neurons to be viewed as probabilities
+- Can be considered similar to `OneHotEncoding`
