@@ -61,3 +61,9 @@
 ## Training a Model
 
 - Epochs: number of times the model will see the entire dataset
+
+
+## Comparing Different Models
+
+- Add a validation set which models have never seen before (not part of
+  training or validation data set)
