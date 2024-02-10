@@ -6,8 +6,9 @@
     {
       "label": "Run Jupyter Notebook",
       "type": "shell",
-      "command": "PYDEVD_DISABLE_FILE_VALIDATION=1 jupyter notebook .",
-      "problemMatcher": []
+      "command": "PYDEVD_DISABLE_FILE_VALIDATION=1 .venv/bin/jupyter notebook .",
+      "problemMatcher": [],
+      "isBackground": true
     }
   ]
 }
