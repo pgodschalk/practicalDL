@@ -47,3 +47,7 @@
   units, the sum of all outputs is equal to 1
 - This allows outputs from neurons to be viewed as probabilities
 - Can be considered similar to `OneHotEncoding`
+
+## Understanding the Model
+
+- Dense layer: each neuron connected to every other neuron in the next layer
