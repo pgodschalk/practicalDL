@@ -67,3 +67,13 @@
 
 - Add a validation set which models have never seen before (not part of
   training or validation data set)
+
+## Principal Component Analysis
+
+- Dimensionality reduction technique
+- Reduces the number of features in a dataset by removing the least important
+  information per degree of freedom
+- For example, in an image, a pixel that is almost always white or black
+  doesn't add much information to the dataset
+- Useful for determining the smallest number of neurons to get useful
+  information propagated through
