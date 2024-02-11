@@ -77,3 +77,11 @@
   doesn't add much information to the dataset
 - Useful for determining the smallest number of neurons to get useful
   information propagated through
+
+## Convolutions & Pooling Definitions
+
+- Used a lot in image processing
+- For every pixel in the image, take the corresponding pixels in the filter and
+  multiply them together, then sum the result
+- Max pooling: take the maximum value of the pixels in the filter to reduce the
+  dimensionality of the image
